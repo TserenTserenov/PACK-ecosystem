@@ -45,4 +45,5 @@
 
 ## Changelog
 
+- 0.2.0 — Added domain ontology (01C-ontology.md) per SPF.SPEC.002
 - 0.1.0 — Initial structure
