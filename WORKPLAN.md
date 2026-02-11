@@ -5,7 +5,7 @@ updated: 2026-02-08
 
 # WORKPLAN
 
-> Операционный план рабочих продуктов для spf-ecosystem-pack (Pack, source-of-truth).
+> Операционный план рабочих продуктов для PACK-ecosystem (Pack, source-of-truth).
 
 ## Месячные приоритеты (февраль 2026)
 
