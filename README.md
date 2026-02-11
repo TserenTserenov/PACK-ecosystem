@@ -50,7 +50,7 @@ PACK-ecosystem/
 
 ## Downstream
 
-- [DS-ops](https://github.com/aisystant/DS-ops) — управление экосистемой
+- [DS-ecosystem-development](https://github.com/aisystant/DS-ecosystem-development) — управление экосистемой
 
 ## Non-goals
 
