@@ -27,8 +27,8 @@
 
 - Содержание курсов (это downstream)
 - Реализация сервисов (это downstream-instrument)
-- Персональное развитие созидателя (это spf-personal-pack)
-- ИТ-платформа (это spf-digital-platform-pack)
+- Персональное развитие созидателя (это PACK-personal)
+- ИТ-платформа (это PACK-digital-platform)
 
 ## Upstream dependencies
 
@@ -37,7 +37,7 @@
 
 ## Downstream outputs
 
-- [ecosystem-development](https://github.com/aisystant/ecosystem-development) — управление экосистемой
+- [DS-ops](https://github.com/aisystant/DS-ops) — управление экосистемой
 
 ## Maintainers
 

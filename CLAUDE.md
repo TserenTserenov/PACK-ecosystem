@@ -1,4 +1,4 @@
-# CLAUDE.md — spf-ecosystem-pack
+# CLAUDE.md — PACK-ecosystem
 
 > **Общие инструкции:** см. `/Users/tserentserenov/Github/CLAUDE.md`
 >
@@ -79,4 +79,4 @@ pack/ecosystem/
 |-------------|------|
 | SPF | Upstream — форма и процесс |
 | FPF | Upstream (через SPF) — первые принципы |
-| ecosystem-development | Downstream — управление экосистемой |
+| DS-ops | Downstream — управление экосистемой |

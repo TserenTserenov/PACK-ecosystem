@@ -1,4 +1,4 @@
-# spf-ecosystem-pack
+# PACK-ecosystem
 
 > **Тип репозитория:** `Pack`
 
@@ -17,7 +17,7 @@
 ## Структура
 
 ```
-spf-ecosystem-pack/
+PACK-ecosystem/
 ├── README.md
 ├── REPO-TYPE.md
 └── pack/
@@ -50,13 +50,13 @@ spf-ecosystem-pack/
 
 ## Downstream
 
-- [ecosystem-development](https://github.com/aisystant/ecosystem-development) — управление экосистемой
+- [DS-ops](https://github.com/aisystant/DS-ops) — управление экосистемой
 
 ## Non-goals
 
 - НЕ содержит контента курсов
-- НЕ описывает ИТ-реализацию (см. spf-digital-platform-pack)
-- НЕ описывает персональное развитие (см. spf-personal-pack)
+- НЕ описывает ИТ-реализацию (см. PACK-digital-platform)
+- НЕ описывает персональное развитие (см. PACK-personal)
 
 ---
 

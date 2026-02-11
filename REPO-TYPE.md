@@ -17,12 +17,12 @@
 
 ## Downstream outputs
 
-- [aisystant/ecosystem-development](https://github.com/aisystant/ecosystem-development) — управленческая реализация экосистемы
+- [aisystant/DS-ops](https://github.com/aisystant/DS-ops) — управленческая реализация экосистемы
 - Документация экосистемы (surface)
 
 ## Non-goals
 
-- НЕ является управлением проектом экосистемы (это ecosystem-development)
-- НЕ является структурой репозиториев (это s2r)
+- НЕ является управлением проектом экосистемы (это DS-ops)
+- НЕ является структурой репозиториев (это FMT-S2R)
 - НЕ содержит кода, сервисов
 - НЕ описывает «как построить экосистему» — только «что это и как оценить»
