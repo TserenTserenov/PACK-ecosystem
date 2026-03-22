@@ -1,3 +1,9 @@
+---
+id: ECO.BC.001
+type: bounded-context
+s2r_families: [F0]
+---
+
 # Bounded Context: Экосистема развития интеллекта
 
 ## Определение области

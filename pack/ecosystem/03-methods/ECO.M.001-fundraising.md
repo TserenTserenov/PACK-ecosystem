@@ -6,6 +6,7 @@ status: draft
 created: 2026-03-21
 updated: 2026-03-21
 sota_status: initial
+s2r_families: [F7]
 related:
   - "DS-ecosystem-development/A3.1.Meaning/3.1.1. Investment-Attraction/"
   - "WP-142"

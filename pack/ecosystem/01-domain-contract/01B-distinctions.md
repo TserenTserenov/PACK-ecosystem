@@ -1,3 +1,9 @@
+---
+id: ECO.D.000
+type: distinctions
+s2r_families: [F0]
+---
+
 # Core Distinctions: Экосистема развития интеллекта
 
 ## Обязательные различения
