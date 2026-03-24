@@ -40,10 +40,14 @@
 | ECO.D.001 | SAFE ≠ Convertible Note ≠ Priced Equity Round | D | — | active |
 | ECO.D.002 | Lean Canvas ≠ Business Model Canvas | D | — | active |
 | ECO.D.003 | Education ≠ Intelligence Development | D | — | active |
+| ECO.D.004 | Vision Vs Strategy Vs Roadmap | D | — | active |
 | ECO.FM.001 | Fundraising Failure Modes | FM | — | active |
 | ECO.M.001 | Fundraising | M | — | active |
 | ECO.M.002 | Canvas Selection Method | M | — | active |
 | ECO.M.003 | Jobs-to-be-Done + Value Proposition Canvas Integration | M | — | active |
+| ECO.M.004 | Gtm Strategy | M | — | active |
+| ECO.M.005 | Tam Sam Som | M | — | active |
+| ECO.M.006 | Product Strategy | M | — | active |
 | ECO.MAP.001 | Pack Navigation Map | MAP | — | — |
 | ECO.MAP.002 | S2R Domain View | MAP | — | — |
 | ECO.ROLE.001 | Ecosystem Roles | ROLE | — | active |
