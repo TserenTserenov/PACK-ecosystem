@@ -4,7 +4,7 @@ title: Привлечение инвестиций (Fundraising)
 type: method
 status: active
 created: 2026-03-21
-updated: 2026-03-23
+updated: 2026-03-24
 sota_status: enriched
 s2r_families: [F7]
 related:
@@ -240,8 +240,146 @@ Revenue (month M) = Σ(Cohorts) × Conversion Rate × ARPU × Retention Curve
 
 ---
 
-## 12. TODO (для наращивания)
+## 12. Due Diligence — что подготовить (Seed 2025–2026)
 
-- [ ] Метод: due diligence checklist (что подготовить)
-- [ ] Метод: investor outreach — pipeline и CRM
-- [ ] Кейсы: успешные seed-раунды EdTech/Intelligence platforms 2024-2026
+> Источники: 4Degrees, Kruze Consulting, Papermark, StartUpNV, Zyner.io
+
+**Принцип:** Инвестор проверяет 6 областей. На seed — облегчённая версия, но data room обязателен.
+
+### 6 областей проверки
+
+| Область | Что проверяют | Seed-minimum |
+|---------|--------------|--------------|
+| **1. Финансы** | P&L, cash flow, burn rate, runway, unit economics | Финмодель (bottom-up) + актуальный P&L + cap table |
+| **2. Продукт и рынок** | PMF signals, retention, TAM/SAM, competitive positioning | Метрики (retention, NPS, MoM growth) + competitive matrix |
+| **3. Команда** | Founder-market fit, domain expertise, org structure | Био основателей + advisory board + hiring plan |
+| **4. Юридическое** | Incorporation, IP ownership, contracts, litigation | Свидетельство о регистрации + IP assignment + SAFE/notes |
+| **5. Технология** | Architecture, scalability, security, tech debt | Архитектурная схема + security baseline |
+| **6. Операции** | Processes, key risks, insurance | PROCESSES.md + risk register (минимальный) |
+
+### Data Room — структура папок
+
+```
+00_Intro/          — pitch deck, one-pager, executive summary
+01_Corporate/      — incorporation docs, cap table, bylaws
+02_Financials/     — P&L, cash flow, financial model, use of funds
+03_Legal/          — SAFE/notes, IP assignments, key contracts
+04_Product/        — architecture, roadmap, metrics dashboard
+05_Team/           — bios, org chart, hiring plan, vesting schedules
+06_Customers/      — testimonials, case studies, NPS data
+07_Compliance/     — privacy policy, ToS, licenses
+```
+
+**Инструменты:** Notion, Google Drive, Papermark (аналитика просмотров). На seed достаточно Google Drive с чёткой структурой.
+
+### Failure modes (due diligence)
+
+| Ошибка | Последствие |
+|--------|-------------|
+| FM.FR.012: Нет data room до первой встречи | Инвестор просит — задержка 2-3 недели → потеря momentum |
+| FM.FR.013: Cap table с ошибками | Red flag → углублённая юридическая проверка → отказ |
+| FM.FR.014: IP не оформлен на компанию | Стоп-фактор. Инвестор не закроет сделку без IP assignment |
+
+---
+
+## 13. Investor Outreach — Pipeline и CRM
+
+> Источники: Visible.vc, TechStars, Prospeo, Future Ventures, HubSpot/LinkedIn Benchmark
+
+### Воронка инвестора
+
+```
+Target list (100-200)
+  → Outreach / Intro (warm preferred)
+    → First meeting (10-15%)
+      → Follow-up / Materials shared (50-60% от встреч)
+        → Due diligence (20-30% от follow-up)
+          → Term sheet (30-50% от DD)
+            → Close (80-90% от term sheet)
+```
+
+**Ключевой бенчмарк:** 5-10% конверсия от target list до close. На 1 закрытого инвестора нужно 10-20 первых встреч и 100+ контактов в pipeline.
+
+### Стадии pipeline (CRM)
+
+| Стадия | Действие | Типичное время |
+|--------|----------|---------------|
+| **1. Research** | Составить long list (100-200), отфильтровать по: стадия, сектор, чек, география | 1-2 недели |
+| **2. Warm intro** | Через общих знакомых, портфельные компании, LinkedIn | Приоритет #1 — конверсия 3-5x выше cold |
+| **3. Cold outreach** | Персонализированное письмо: 3 предложения (что делаем, traction, ask) | Конверсия в ответ: 5-10% |
+| **4. First meeting** | 30 мин. Цель: не закрыть сделку, а получить second meeting | — |
+| **5. Follow-up** | Материалы (deck, one-pager, metrics) в течение 24ч | — |
+| **6. Deep dive** | 60 мин. Product demo, финмодель, team deep dive | — |
+| **7. Due diligence** | Data room открыт, вопросы, reference calls | 2-6 недель |
+| **8. Term sheet** | Переговоры по условиям | 1-2 недели |
+| **9. Close** | Юридическое оформление | 2-4 недели |
+
+### CRM для seed-стартапа
+
+| Инструмент | Для кого | Цена |
+|------------|---------|------|
+| Google Sheets / Notion | Pre-seed, <50 контактов | Бесплатно |
+| OpenVC CRM | Seed, fundraising-focused | Бесплатно |
+| Visible.vc | Seed+, investor updates + pipeline | $50+/мес |
+| HubSpot Startup | Scale, полный CRM | Бесплатно (для стартапов) |
+
+### Failure modes (outreach)
+
+| Ошибка | Последствие |
+|--------|-------------|
+| FM.FR.015: Массовая рассылка без персонализации | Spam-репутация, 0% конверсия |
+| FM.FR.016: Нет warm intro strategy | Cold-only → 3-5x ниже конверсия |
+| FM.FR.017: Pipeline <50 контактов | Математически недостаточно для закрытия раунда |
+| FM.FR.018: Нет follow-up в 24ч | Investor interest decays exponentially |
+
+---
+
+## 14. Кейсы: EdTech seed-раунды 2024–2026
+
+> Источники: Reach Capital, DreamXWeb, TechCrunch, Crunchbase
+
+### Benchmark: средний seed в EdTech
+
+| Показатель | 2024 | 2025–2026 |
+|-----------|------|-----------|
+| Средний seed (non-AI) | ~$4M | ~$4-5M |
+| Средний seed (AI-native) | ~$7.8M | ~$8-10M |
+| Post-money valuation | $16-20M | $20-30M (AI-native) |
+
+### Кейсы
+
+**Speak** (AI language learning)
+- OpenAI-backed, $1B valuation (дек 2024)
+- 10M+ registered users, 1B+ sentences spoken в AI
+- 95% accuracy в error detection
+- Урок: voice-first AI + measurable outcomes = premium valuation
+
+**MagicSchool AI** (K-12 AI tools)
+- $45M raised (2025), начиналась как Replit-прототип
+- Fastest-growing EdTech in K-12
+- Урок: быстрый MVP → teacher adoption → funding follows traction
+
+**Jotit** (handwriting + digital learning)
+- $10M seed (Owl Ventures lead, 2025)
+- Нишевый продукт: handwriting recognition + learning
+- Урок: нишевой фокус + strong lead investor = successful seed
+
+**Duolingo** (benchmark, public)
+- $1B+ ARR (2025), 50M DAU, 11.5M paid subscribers
+- 148 новых AI-powered курсов (апр 2025)
+- Урок: gamification + AI + massive free tier → 2% conversion = profitable
+
+### Паттерны успешных seed-раундов EdTech 2024–2026
+
+1. **AI-native > AI-enhanced:** Продукты, построенные вокруг AI (не AI как фича), получают 2x оценку
+2. **Measurable outcomes:** Retention, learning gains, time-to-competency — не vanity metrics
+3. **Teacher/learner adoption first:** Traction через word-of-mouth, не paid marketing
+4. **Niche → expand:** Узкий фокус на старте → расширение после PMF
+
+---
+
+## 15. TODO (для наращивания)
+
+- [ ] Метод: negotiation tactics (term sheet переговоры)
+- [ ] Метод: investor update template (monthly/quarterly)
+- [ ] SOTA: свежие данные по EdTech funding Q1 2026

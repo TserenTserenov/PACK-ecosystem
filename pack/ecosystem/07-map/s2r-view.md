@@ -15,9 +15,9 @@ generated: true
 
 |  | **Предприниматель** (Зачем?) | **Инженер** (Как устроено?) | **Менеджер** (Как работает?) |
 |---|---|---|---|
-| **Надсистема** | **F1: Продвижение** • [ECO.M.003](03-methods/ECO.M.003-jtbd-vpc.md) • [ECO.SOTA.002](06-sota/ECO.SOTA.002-freemium-edtech-2025-2026.md) | **F2: Продукт** — *(пусто)* | **F3: PR/GR** — *(пусто)* |
-| **Целевая система** | **F4: Видение** • [ECO.D.002](02-distinctions/ECO.D.002-lean-canvas-vs-bmc.md) • [ECO.M.002](03-methods/ECO.M.002-canvas-selection.md) • [ECO.M.003](03-methods/ECO.M.003-jtbd-vpc.md) | **F5: Архитектура** — *(пусто)* | **F6: Операции** — *(пусто)* |
-| **Система создания** | **F7: Бизнес** • [ECO.D.001](02-distinctions/ECO.D.001-safe-vs-note-vs-priced.md) • [ECO.D.002](02-distinctions/ECO.D.002-lean-canvas-vs-bmc.md) • [ECO.M.001](03-methods/ECO.M.001-fundraising.md) • [ECO.M.002](03-methods/ECO.M.002-canvas-selection.md) • [ECO.SOTA.001](06-sota/ECO.SOTA.001-edtech-seed-funding-2024-2026.md) • [ECO.SOTA.002](06-sota/ECO.SOTA.002-freemium-edtech-2025-2026.md) | **F8: Платформа** — *(пусто)* | **F9: Команда** — *(пусто)* |
+| **Надсистема** | **F1: Продвижение** • [ECO.D.003](02-distinctions/ECO.D.003-education-vs-intelligence-development.md) • [ECO.M.003](03-methods/ECO.M.003-jtbd-vpc.md) • [ECO.SOTA.002](06-sota/ECO.SOTA.002-freemium-edtech-2025-2026.md) | **F2: Продукт** — *(пусто)* | **F3: PR/GR** — *(пусто)* |
+| **Целевая система** | **F4: Видение** • [ECO.D.002](02-distinctions/ECO.D.002-lean-canvas-vs-bmc.md) • [ECO.D.003](02-distinctions/ECO.D.003-education-vs-intelligence-development.md) • [ECO.M.002](03-methods/ECO.M.002-canvas-selection.md) • [ECO.M.003](03-methods/ECO.M.003-jtbd-vpc.md) | **F5: Архитектура** — *(пусто)* | **F6: Операции** — *(пусто)* |
+| **Система создания** | **F7: Бизнес** • [ECO.D.001](02-distinctions/ECO.D.001-safe-vs-note-vs-priced.md) • [ECO.D.002](02-distinctions/ECO.D.002-lean-canvas-vs-bmc.md) • [ECO.M.001](03-methods/ECO.M.001-fundraising.md) • [ECO.M.002](03-methods/ECO.M.002-canvas-selection.md) • [ECO.FM.001](05-failure-modes/ECO.FM.001-fundraising-failure-modes.md) • [ECO.SOTA.001](06-sota/ECO.SOTA.001-edtech-seed-funding-2024-2026.md) • [ECO.SOTA.002](06-sota/ECO.SOTA.002-freemium-edtech-2025-2026.md) | **F8: Платформа** — *(пусто)* | **F9: Команда** — *(пусто)* |
 
 ## Метауровень (F0)
 
@@ -27,11 +27,11 @@ generated: true
 
 ---
 
-**Документов с S2R-тегами:** 10
+**Документов с S2R-тегами:** 12
 
 ## Без S2R-тегов
 
 *(все документы размечены)*
 
 ---
-*Generated on 2026-03-24 11:36*
+*Generated on 2026-03-24 11:55*

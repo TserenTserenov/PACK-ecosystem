@@ -36,9 +36,25 @@ s2r_families: [F7]
 
 ## Кейсы seed-раундов 2024-2026
 
-- **Outsmart** (ex-Duolingo founders): $14M seed
-- **Buddy.ai**: $9M seed
-- Общий паттерн: AI + proven traction + domain credentials
+| Компания | Раунд | Сумма | Ключевой фактор |
+|----------|-------|-------|-----------------|
+| **Speak** (AI language) | Series C → $1B valuation (дек 2024) | — | 10M users, 1B sentences, OpenAI-backed |
+| **MagicSchool AI** (K-12) | Growth (2025) | $45M | Fastest-growing K-12 EdTech, начат как Replit-прототип |
+| **Jotit** (handwriting + digital) | Seed (2025) | $10M | Owl Ventures lead, нишевый фокус |
+| **Outsmart** (ex-Duolingo founders) | Seed | $14M | Domain credentials + team pedigree |
+| **Buddy.ai** (AI English) | Seed | $9M | AI-native voice learning |
+
+**Паттерны успеха:**
+1. **AI-native > AI-enhanced** — продукт вокруг AI (не AI как фича) → 2x оценка
+2. **Measurable outcomes** — retention, learning gains, time-to-competency
+3. **Adoption first** — traction через word-of-mouth, не paid marketing
+4. **Niche → expand** — узкий фокус → PMF → расширение
+
+## Рынок AI in EdTech (2025-2026)
+
+- Глобальный рынок AI in EdTech: $5.88B (2024) → $8.30B (2025), CAGR >31%
+- Крупнейшие раунды 2025: AMBOSS $260M, Lingokids $120M, EdSights $80M
+- Duolingo: $1B+ ARR (2025), 50M DAU, 11.5M paid, 148 новых AI-курсов
 
 ## Benchmarks 2026
 

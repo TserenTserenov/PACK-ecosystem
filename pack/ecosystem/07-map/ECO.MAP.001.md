@@ -18,12 +18,13 @@ generated: true
 | Kind | Count |
 |------|-------|
 | BC (BC) | 1 |
-| Distinctions (D) | 3 |
+| Distinctions (D) | 4 |
+| Failure Modes (FM) | 1 |
 | Methods (M) | 3 |
 | Maps (MAP) | 2 |
 | ROLE (ROLE) | 1 |
 | SoTA Annotations (SOTA) | 2 |
-| **Total** | **12** |
+| **Total** | **14** |
 
 ## Distinctions
 
@@ -32,6 +33,7 @@ generated: true
 | ECO.D.000 | 01B Distinctions | — | — |
 | ECO.D.001 | SAFE ≠ Convertible Note ≠ Priced Equity Round | — | active |
 | ECO.D.002 | Lean Canvas ≠ Business Model Canvas | — | active |
+| ECO.D.003 | Education ≠ Intelligence Development | — | active |
 
 ## Methods
 
@@ -40,6 +42,12 @@ generated: true
 | ECO.M.001 | Fundraising | — | active |
 | ECO.M.002 | Canvas Selection Method | — | active |
 | ECO.M.003 | Jobs-to-be-Done + Value Proposition Canvas Integration | — | active |
+
+## Failure Modes
+
+| ID | Name | Summary | Status |
+|----|------|---------|--------|
+| ECO.FM.001 | Fundraising Failure Modes | — | active |
 
 ## SoTA Annotations
 
@@ -75,10 +83,12 @@ generated: true
 - Missing `summary`: ECO.D.000 (01B-distinctions.md)
 - Missing `summary`: ECO.D.001 (ECO.D.001-safe-vs-note-vs-priced.md)
 - Missing `summary`: ECO.D.002 (ECO.D.002-lean-canvas-vs-bmc.md)
+- Missing `summary`: ECO.D.003 (ECO.D.003-education-vs-intelligence-development.md)
 - Missing `summary`: ECO.ROLE.001 (ECO.ROLE.001-ecosystem-roles.md)
 - Missing `summary`: ECO.M.001 (ECO.M.001-fundraising.md)
 - Missing `summary`: ECO.M.002 (ECO.M.002-canvas-selection.md)
 - Missing `summary`: ECO.M.003 (ECO.M.003-jtbd-vpc.md)
+- Missing `summary`: ECO.FM.001 (ECO.FM.001-fundraising-failure-modes.md)
 - Missing `summary`: ECO.SOTA.001 (ECO.SOTA.001-edtech-seed-funding-2024-2026.md)
 - Missing `summary`: ECO.SOTA.002 (ECO.SOTA.002-freemium-edtech-2025-2026.md)
 - Missing `summary`: ECO.MAP.001 (ECO.MAP.001.md)

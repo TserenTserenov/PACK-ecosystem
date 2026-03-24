@@ -39,6 +39,8 @@
 | ECO.D.000 | 01B Distinctions | D | — | — |
 | ECO.D.001 | SAFE ≠ Convertible Note ≠ Priced Equity Round | D | — | active |
 | ECO.D.002 | Lean Canvas ≠ Business Model Canvas | D | — | active |
+| ECO.D.003 | Education ≠ Intelligence Development | D | — | active |
+| ECO.FM.001 | Fundraising Failure Modes | FM | — | active |
 | ECO.M.001 | Fundraising | M | — | active |
 | ECO.M.002 | Canvas Selection Method | M | — | active |
 | ECO.M.003 | Jobs-to-be-Done + Value Proposition Canvas Integration | M | — | active |
