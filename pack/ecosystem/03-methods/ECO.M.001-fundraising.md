@@ -207,6 +207,12 @@ Revenue (month M) = Σ(Cohorts) × Conversion Rate × ARPU × Retention Curve
 - No traction ($0 ARR на seed = red flag 2026)
 - Top-down financials
 - Vague differentiation («AI-powered learning platform»)
+- Founder secondary на ранних стадиях без доказанного traction (отвлекает от транша, воспринимается как red flag)
+
+**Правила инвестиционного нарратива (vs публицистика/vision):**
+- Инвестор хочет: один продукт → одна цена → одна динамика роста → на что пойдёт транш в первые 6 мес
+- Vision = допустим, но цифры должны быть конкретными: «$10/мес сейчас, 500 платящих, $60K ARR» — не «больше-меньше»
+- Founder secondary обсуждается после доказанного успеха вложения, не в первом deck
 
 ---
 
