@@ -18,13 +18,14 @@ generated: true
 | Kind | Count |
 |------|-------|
 | BC (BC) | 1 |
-| Distinctions (D) | 5 |
-| Failure Modes (FM) | 1 |
-| Methods (M) | 6 |
+| Distinctions (D) | 7 |
+| Failure Modes (FM) | 2 |
+| Methods (M) | 19 |
 | Maps (MAP) | 2 |
 | ROLE (ROLE) | 1 |
-| SoTA Annotations (SOTA) | 2 |
-| **Total** | **18** |
+| SoTA Annotations (SOTA) | 7 |
+| Work Products (WP) | 1 |
+| **Total** | **40** |
 
 ## Distinctions
 
@@ -35,6 +36,8 @@ generated: true
 | ECO.D.002 | Lean Canvas ≠ Business Model Canvas | — | active |
 | ECO.D.003 | Education ≠ Intelligence Development | — | active |
 | ECO.D.004 | Vision Vs Strategy Vs Roadmap | — | active |
+| ECO.D.005 | Platform Vs Product Vs Ecosystem | — | active |
+| ECO.D.006 | Pr Vs Marketing Vs Gr | — | active |
 
 ## Methods
 
@@ -46,12 +49,32 @@ generated: true
 | ECO.M.004 | Gtm Strategy | — | active |
 | ECO.M.005 | Tam Sam Som | — | active |
 | ECO.M.006 | Product Strategy | — | active |
+| ECO.M.007 | Ecosystem Design | — | active |
+| ECO.M.008 | Build Buy Partner | — | active |
+| ECO.M.009 | Developer Experience | — | active |
+| ECO.M.010 | Product Market Fit | — | active |
+| ECO.M.011 | Pricing Strategy | — | active |
+| ECO.M.012 | Ecosystem Health Metrics | — | active |
+| ECO.M.013 | Feedback Loops | — | active |
+| ECO.M.014 | Stakeholder Communication | — | active |
+| ECO.M.015 | Team Composition Seed | — | active |
+| ECO.M.016 | Founder Market Fit | — | active |
+| ECO.M.017 | Ecosystem Led Growth | — | active |
+| ECO.M.018 | Platform Design Toolkit | — | active |
+| ECO.M.019 | Revenue Based Financing | — | active |
+
+## Work Products
+
+| ID | Name | Summary | Status |
+|----|------|---------|--------|
+| ECO.WP.001 | Ecosystem Work Products Catalog | — | active |
 
 ## Failure Modes
 
 | ID | Name | Summary | Status |
 |----|------|---------|--------|
 | ECO.FM.001 | Fundraising Failure Modes | — | active |
+| ECO.FM.002 | Ecosystem Operations | — | active |
 
 ## SoTA Annotations
 
@@ -59,6 +82,11 @@ generated: true
 |----|------|---------|--------|
 | ECO.SOTA.001 | EdTech Seed Funding Environment (2024-2026) | — | active |
 | ECO.SOTA.002 | Freemium Models in EdTech (2025-2026) | — | active |
+| ECO.SOTA.003 | Platform Business Models 2025 2026 | — | active |
+| ECO.SOTA.004 | Composable Tools 2025 2026 | — | active |
+| ECO.SOTA.005 | Edtech Product Metrics 2025 2026 | — | active |
+| ECO.SOTA.006 | Edtech Regulatory 2025 2026 | — | active |
+| ECO.SOTA.007 | Remote First Teams 2025 2026 | — | active |
 
 ## Maps
 
@@ -89,6 +117,8 @@ generated: true
 - Missing `summary`: ECO.D.002 (ECO.D.002-lean-canvas-vs-bmc.md)
 - Missing `summary`: ECO.D.003 (ECO.D.003-education-vs-intelligence-development.md)
 - Missing `summary`: ECO.D.004 (ECO.D.004-vision-vs-strategy-vs-roadmap.md)
+- Missing `summary`: ECO.D.005 (ECO.D.005-platform-vs-product-vs-ecosystem.md)
+- Missing `summary`: ECO.D.006 (ECO.D.006-pr-vs-marketing-vs-gr.md)
 - Missing `summary`: ECO.ROLE.001 (ECO.ROLE.001-ecosystem-roles.md)
 - Missing `summary`: ECO.M.001 (ECO.M.001-fundraising.md)
 - Missing `summary`: ECO.M.002 (ECO.M.002-canvas-selection.md)
@@ -96,9 +126,29 @@ generated: true
 - Missing `summary`: ECO.M.004 (ECO.M.004-gtm-strategy.md)
 - Missing `summary`: ECO.M.005 (ECO.M.005-tam-sam-som.md)
 - Missing `summary`: ECO.M.006 (ECO.M.006-product-strategy.md)
+- Missing `summary`: ECO.M.007 (ECO.M.007-ecosystem-design.md)
+- Missing `summary`: ECO.M.008 (ECO.M.008-build-buy-partner.md)
+- Missing `summary`: ECO.M.009 (ECO.M.009-developer-experience.md)
+- Missing `summary`: ECO.M.010 (ECO.M.010-product-market-fit.md)
+- Missing `summary`: ECO.M.011 (ECO.M.011-pricing-strategy.md)
+- Missing `summary`: ECO.M.012 (ECO.M.012-ecosystem-health-metrics.md)
+- Missing `summary`: ECO.M.013 (ECO.M.013-feedback-loops.md)
+- Missing `summary`: ECO.M.014 (ECO.M.014-stakeholder-communication.md)
+- Missing `summary`: ECO.M.015 (ECO.M.015-team-composition-seed.md)
+- Missing `summary`: ECO.M.016 (ECO.M.016-founder-market-fit.md)
+- Missing `summary`: ECO.M.017 (ECO.M.017-ecosystem-led-growth.md)
+- Missing `summary`: ECO.M.018 (ECO.M.018-platform-design-toolkit.md)
+- Missing `summary`: ECO.M.019 (ECO.M.019-revenue-based-financing.md)
+- Missing `summary`: ECO.WP.001 (ECO.WP.001-ecosystem-work-products-catalog.md)
 - Missing `summary`: ECO.FM.001 (ECO.FM.001-fundraising-failure-modes.md)
+- Missing `summary`: ECO.FM.002 (ECO.FM.002-ecosystem-operations.md)
 - Missing `summary`: ECO.SOTA.001 (ECO.SOTA.001-edtech-seed-funding-2024-2026.md)
 - Missing `summary`: ECO.SOTA.002 (ECO.SOTA.002-freemium-edtech-2025-2026.md)
+- Missing `summary`: ECO.SOTA.003 (ECO.SOTA.003-platform-business-models-2025-2026.md)
+- Missing `summary`: ECO.SOTA.004 (ECO.SOTA.004-composable-tools-2025-2026.md)
+- Missing `summary`: ECO.SOTA.005 (ECO.SOTA.005-edtech-product-metrics-2025-2026.md)
+- Missing `summary`: ECO.SOTA.006 (ECO.SOTA.006-edtech-regulatory-2025-2026.md)
+- Missing `summary`: ECO.SOTA.007 (ECO.SOTA.007-remote-first-teams-2025-2026.md)
 - Missing `summary`: ECO.MAP.001 (ECO.MAP.001.md)
 - Missing `summary`: ECO.MAP.002 (s2r-view.md)
 

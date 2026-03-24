@@ -50,7 +50,7 @@ related:
 
 **Типичные DP-роли при исполнении:** R4 Автор, R21 Публикатор
 
-**Методы Pack:** ECO.M.003 (JTBD — определение ценностного предложения)
+**Методы Pack:** ECO.M.003 (JTBD), ECO.M.004 (GTM-стратегия), ECO.M.017 (Ecosystem-Led Growth)
 
 ---
 
@@ -71,7 +71,7 @@ related:
 
 **Типичные DP-роли при исполнении:** R5 Архитектор (на стыке с F5)
 
-**Методы Pack:** ECO.M.002 (Canvas Selection), ECO.SOTA.002 (Freemium)
+**Методы Pack:** ECO.M.002 (Canvas Selection), ECO.M.010 (PMF Measurement), ECO.M.011 (Pricing Strategy), ECO.SOTA.002 (Freemium), ECO.SOTA.005 (EdTech Product Metrics)
 
 ---
 
@@ -93,7 +93,7 @@ related:
 
 **Типичные DP-роли при исполнении:** M1 Разработчик экосистемы
 
-**Методы Pack:** — (пусто, заполнение в Ф5)
+**Методы Pack:** ECO.M.014 (Stakeholder Communication), ECO.D.006 (PR ≠ Marketing ≠ GR), ECO.SOTA.006 (EdTech Regulatory Landscape)
 
 ---
 
@@ -115,7 +115,7 @@ related:
 
 **Типичные DP-роли при исполнении:** R1 Стратег, R17 Стратег (интерактив)
 
-**Методы Pack:** ECO.M.002 (Canvas Selection), ECO.M.003 (JTBD+VPC)
+**Методы Pack:** ECO.M.002 (Canvas Selection), ECO.M.003 (JTBD+VPC), ECO.M.005 (TAM/SAM/SOM), ECO.M.006 (Product Strategy), ECO.M.018 (Platform Design Toolkit), ECO.D.004 (Vision ≠ Strategy ≠ Roadmap)
 
 ---
 
@@ -137,7 +137,7 @@ related:
 
 **Типичные DP-роли при исполнении:** R5 Архитектор
 
-**Методы Pack:** — (пусто, заполнение в Ф3)
+**Методы Pack:** ECO.M.007 (Ecosystem Design), ECO.D.005 (Platform ≠ Product ≠ Ecosystem), ECO.SOTA.003 (Platform Business Models)
 
 **Связь с онтологией:** напрямую использует понятия ECO.BC.001 — Компонент, Переход, Бесшовность.
 
@@ -161,7 +161,7 @@ related:
 
 **Типичные DP-роли при исполнении:** R10 Статистик, R11 Наладчик
 
-**Методы Pack:** — (пусто, заполнение в Ф4)
+**Методы Pack:** ECO.M.012 (Ecosystem Health Metrics), ECO.M.013 (Feedback Loops), ECO.FM.002 (Операционные Failure Modes)
 
 ---
 
@@ -183,7 +183,7 @@ related:
 
 **Типичные DP-роли при исполнении:** R1 Стратег, R17 Стратег (интерактив)
 
-**Методы Pack:** ECO.M.001 (Fundraising), ECO.M.002 (Canvas Selection)
+**Методы Pack:** ECO.M.001 (Fundraising), ECO.M.002 (Canvas Selection), ECO.M.019 (Revenue-Based Financing)
 **Различения Pack:** ECO.D.001 (SAFE vs Note vs Priced), ECO.D.002 (Lean vs BMC)
 **SOTA Pack:** ECO.SOTA.001 (EdTech Seed Funding), ECO.SOTA.002 (Freemium)
 
@@ -207,7 +207,7 @@ related:
 
 **Типичные DP-роли при исполнении:** R5 Архитектор, R6 Кодировщик
 
-**Методы Pack:** — (пусто, заполнение в Ф3)
+**Методы Pack:** ECO.M.008 (Build vs Buy vs Partner), ECO.M.009 (Developer Experience), ECO.SOTA.004 (Composable Tools)
 
 **Связь с PACK-digital-platform:** F8 описывает решения об инструментах на уровне экосистемы. Детали реализации — в DP.
 
@@ -231,7 +231,7 @@ related:
 
 **Типичные DP-роли при исполнении:** M1 Разработчик экосистемы
 
-**Методы Pack:** — (пусто, заполнение в Ф5)
+**Методы Pack:** ECO.M.015 (Team Composition Seed), ECO.M.016 (Founder-Market Fit), ECO.SOTA.007 (Remote-First Teams)
 
 ---
 
