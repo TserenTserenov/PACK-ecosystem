@@ -384,8 +384,64 @@ Target list (100-200)
 
 ---
 
-## 15. TODO (для наращивания)
+## 15. EdTech-Specific Requirements (2026)
+
+> Источники: Qubit Capital, Educate-Me, WeAreFounders, Data-Mania (Scout 25-26 мар)
+
+### 15.1. Pedagogical Market Fit (PMF-edu) — обязательно
+
+EdTech VC в 2026 используют external learning scientists для аудита эффективности продукта. Стартапы без efficacy validation видят **discount 30-50%** на valuations.
+
+**Что требуется:**
+- Pre/post тесты с контрольной группой
+- Measurable learning outcomes (не engagement metrics)
+- Pilot results: N участников, skill gain %, retention rate
+- Teacher/instructor testimonials (qualitative + quantitative)
+
+**Различие:** PMF-edu ≠ PMF. См. ECO.D.007.
+
+### 15.2. Fundraising Timing — сезонность
+
+EdTech investors concentrate deal-making в **Q3-Q4 + start of Q1** (июль-декабрь + январь).
+
+**Тактика:** Запускать outreach минимум за **8 месяцев до cash runway end**, чтобы попасть в peak cycles.
+
+### 15.3. 2026 Trends: AI + Workforce Upskilling
+
+Investors prioritize:
+- **AI integration** (не ChatGPT wrapper, а AI как enabler learning outcomes)
+- **Job-Aligned Workforce Upskilling** (corporate training, reskilling)
+- **Active Learning** (не content consumption, а deliberate practice)
+
+### 15.4. Seed/Series A — robust, mega-rounds cooled
+
+Global EdTech VC = $12.6B (2026), stabilized. Seed и Series A remain robust для strong fundamentals. Mega-rounds ($50M+) cooled.
+
+---
+
+## 16. EdTech Unit Economics — Benchmarks (2026)
+
+> Источники: WeAreFounders, Data-Mania, Averi.AI, Proven SaaS (Scout 25-26 мар)
+
+| Метрика | EdTech 2026 | SaaS average | Комментарий |
+|---------|-------------|-------------|-------------|
+| **Monthly churn** | 9.6% | 3-5% | Highest among SaaS verticals (38x vs enterprise 0.25%) |
+| **NRR** | >106% | >110% | NRR >106% → 2.5x faster growth |
+| **Expansion revenue** | 40% new ARR | 30% | Ключ для роста при высоком churn |
+| **CAC** | $1,143 avg | $800-1,200 | Education segment: $42 с 3.8mo payback (best-in-class) |
+| **LTV:CAC** | >3:1 | >3:1 | Healthy |
+| **CAC payback** | 6.8mo median | 12mo | EdTech segment 3.8mo = fast profitability |
+| **Visitor-to-trial** | 10.3% | 7-10% | EdTech-specific |
+| **Seed→Series A graduation** | 12% (2023) | — | Down from 41% (2020). Focus: proof > potential |
+
+**Failure modes:**
+- FM.FR.019: Игнорирование churn 9.6% в финмодели → нереалистичные прогнозы
+- FM.FR.020: Нет expansion revenue strategy → churn съедает рост
+
+---
+
+## 17. TODO (для наращивания)
 
 - [ ] Метод: negotiation tactics (term sheet переговоры)
 - [ ] Метод: investor update template (monthly/quarterly)
-- [ ] SOTA: свежие данные по EdTech funding Q1 2026
+- [x] ~~SOTA: свежие данные по EdTech funding Q1 2026~~ → §15 + §16 (Scout 25-26 мар)
