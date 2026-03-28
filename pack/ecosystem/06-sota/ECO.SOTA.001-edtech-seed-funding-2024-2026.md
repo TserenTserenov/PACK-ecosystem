@@ -4,7 +4,7 @@ name: "EdTech Seed Funding Environment (2024-2026)"
 type: sota
 status: active
 created: 2026-03-23
-source: "Crunchbase EdTech Funding, Reach Capital 2025, Tracxn EdTech 2026, Scout 22 мар 2026"
+source: "Crunchbase EdTech Funding, Reach Capital 2025, Tracxn EdTech 2026, Scout 22+27+28 мар 2026"
 related: [ECO.M.001, ECO.D.001]
 s2r_families: [F7]
 ---
@@ -66,8 +66,38 @@ s2r_families: [F7]
 | B2B ACV | $10K-$50K (team tier) |
 | NDR (B2B) | 90-110% (expansion через upsell) |
 
+## The Efficacy Reckoning (Q4 2025 — Q1 2026)
+
+Фундаментальный сдвиг: инвесторы и buyers требуют **Pedagogical Efficacy и Verifiable Skill Acquisition** вместо platform reach или engagement metrics.
+
+**Ключевые сдвиги:**
+
+1. **Engagement → Outcomes:** MAU/completion rates → measurable learning outcomes, skill assessments, job placement rates
+2. **Passive Content → Agentic Systems:** видеолекции/квизы → автономные AI-системы (feedback loops, персонализация, workflow automation)
+3. **Reach → Impact:** "10M users" → "X% skill acquisition verified, Y% job placement"
+4. **Interoperability:** best practice → **buying requirement** (buyers reject platforms без интеграции с LMS/HRIS/skills ecosystems)
+5. **Workforce Upskilling:** corporate buyers приоритезируют micro-credentials + simulation-based training; 44.8% CAGR (2026-2034)
+
+**Данные Q1 2026:**
+
+- 36% K-12 EdTech организаций с падением выручки (vs 28% в 2024, 18% в 2023)
+- $2.8B seed-growth funding глобально (стабилизация)
+- 360 M&A transactions (системы, инфраструктура, workforce alignment)
+- EdTech avg revenue multiples: 8.1x (2025)
+- Seed/Series A resilient для high NRR companies
+
+**Investor Criteria (2026):**
+
+- Capital efficiency: clear path to profitability
+- Pedagogical efficacy proof: evidence of learning impact
+- Verifiable skill acquisition: assessments, certifications, employer validation
+- Interoperability: API-first, integrates with existing ecosystems
+
 ## Источники
 
 - [Crunchbase: EdTech Funding Trends](https://news.crunchbase.com/venture/edtech-funding-stays-low/)
 - [Reach Capital: 2025 EdTech Rebound Analysis](https://www.reachcapital.com/2025/01/20/is-us-edtech-set-for-a-rebound-in-2025/)
 - [Tracxn: EdTech 2026 Market & Investments](https://tracxn.com/d/sectors/edtech/__fPwPVORWpMV0ZBc8pzbBQuRHbHgOhpGTjddL4QIjHg8)
+- [OpenFieldX: 2026 EdTech Trends — Efficacy Reckoning](https://openfieldx.com/edtech-trends-2026/)
+- [Talks Android: EdTech Funding 2026 Trends](https://talksandroid.com/edtech-funding-news-2026-trends/)
+- [Qubit Capital: EdTech Funding Sources](https://qubit.capital/blog/edtech-funding-sources)
