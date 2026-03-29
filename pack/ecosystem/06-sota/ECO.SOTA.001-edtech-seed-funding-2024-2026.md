@@ -4,7 +4,7 @@ name: "EdTech Seed Funding Environment (2024-2026)"
 type: sota
 status: active
 created: 2026-03-23
-source: "Crunchbase EdTech Funding, Reach Capital 2025, Tracxn EdTech 2026, Scout 22+27+28 мар 2026"
+source: "Crunchbase EdTech Funding, Reach Capital 2025, Tracxn EdTech 2026, Scout 22+27+28+29 мар 2026"
 related: [ECO.M.001, ECO.D.001]
 s2r_families: [F7]
 ---
@@ -92,6 +92,14 @@ s2r_families: [F7]
 - Pedagogical efficacy proof: evidence of learning impact
 - Verifiable skill acquisition: assessments, certifications, employer validation
 - Interoperability: API-first, integrates with existing ecosystems
+
+**Logic Models Requirement (Q1 2026):**
+
+Founders обязаны предоставить **Logic Model** или third-party research с доказательством улучшения на **≥10%** (student mastery / teacher productivity). Products без proof-of-impact не проходят budget scrutiny.
+
+- **Skills transparency** = новый buying requirement (не опция, а порог входа)
+- **Capital efficiency > growth-at-all-costs** — growth-at-all-costs strategy больше не работает для EdTech seed
+- Content → Measurable Gains: метрика не «сколько прошли», а «насколько улучшились»
 
 ## Источники
 
