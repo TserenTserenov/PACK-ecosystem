@@ -214,6 +214,28 @@ Revenue (month M) = Σ(Cohorts) × Conversion Rate × ARPU × Retention Curve
 - Vision = допустим, но цифры должны быть конкретными: «$10/мес сейчас, 500 платящих, $60K ARR» — не «больше-меньше»
 - Founder secondary обсуждается после доказанного успеха вложения, не в первом deck
 
+### 9.1 Traction Threshold + Engagement Psychology (2025–2026)
+
+> Источники: Top US Seed Investors 2025–2026 (derrickwhitehead.com), YC Guide to Seed Pitching, How VC Pitch Decks Really Work in 2026 (fundingblueprint.io)
+
+**Traction Threshold.** Минимальный порог для seed-раунда EdTech/SaaS — хотя бы одно из трёх:
+- **$5,000 MRR**, ИЛИ
+- **500 active weekly users**, ИЛИ
+- **5 signed enterprise LOIs** (Letters of Intent)
+
+Без одного из этих условий вероятность привлечения seed близка к нулю.
+
+**Psychology of Engagement:**
+- **2-Minute Rule** — среднее время просмотра deck — 2 мин 24 сек. Инвесторы scan, не читают последовательно
+- **Talk Ratio** — «The more the investor talks, the more likely they are to invest». Цель фаундера — вовлечь, не говорить за него
+- **Yes/No Forcing** — прямой вопрос yes/no создаёт psychological discomfort → инвестор принимает решение. Избегать «maybe» и «let me think about it»
+
+**New Standard (2025).** Pitch deck в одиночку считается неполным. Top founders дополнительно предоставляют:
+1. **Brief memo** — 1-2 страницы executive summary
+2. **Data room** — metrics, financials, contracts (см. §12)
+
+**60-Second Rule.** Каждую дополнительную минуту внимания инвестора нужно зарабатывать. Lead with strongest point — не с традиционного template-порядка. Если сильнейшее — traction, начинай с traction. Если команда — с команды.
+
 ---
 
 ## 10. Pitch Deck Structure (YC template 2026)
@@ -237,12 +259,46 @@ Revenue (month M) = Σ(Cohorts) × Conversion Rate × ARPU × Retention Curve
 ## 11. Term Sheet Essentials (Seed 2026)
 
 - **Инструмент:** SAFE наиболее распространён. >$5M → priced equity (см. ECO.D.001)
-- **Валюация:** $16M median pre-money (2026)
+- **Валюация:** $16M median pre-money (2026, общий median; разбивка по подтипам в §11A)
 - **Discount:** 15-20% типично для SAFE
 - **Pro-rata:** инвесторы хотят право на follow-on в Series A
 - **Board:** нет мест на seed (observer rights ok)
 - **Vesting:** 4 года с 1-year cliff (стандарт)
 - **Liquidation preference:** 1x (не participating preferred)
+
+### 11A. Pre-Money Valuations Breakdown + Instrument Selection + Cap Table (2026)
+
+> Источники: SAFEs vs Convertible Notes vs Priced Rounds (seedlegals.com), Seed Round Valuation 2025 Complete Guide (flowjam.com)
+
+**Pre-Money Valuations по подтипу:**
+
+| Подтип | Диапазон | Кластер | Медиана | Комментарий |
+|--------|----------|---------|---------|-------------|
+| **EdTech/SaaS (non-AI)** | $8M–$20M | $12M–$16M | ~$14M | Базовая оценка |
+| **AI-Education** | $15M–$30M | — | — | AI premium; требования к traction жёстче (AI hype снизился к 2026 — нужны реальные метрики) |
+
+> Соотношение с §11: $16M median — общий market median. $14M — EdTech non-AI медиана. AI-Education идёт с премией.
+
+**SAFE vs Convertible Note vs Priced Round:**
+
+| Параметр | SAFE | Convertible Note | Priced Round |
+|----------|------|------------------|--------------|
+| Complexity | Lowest | Medium | Highest |
+| Time to close | Days–weeks | Weeks | Months |
+| Legal costs | $500–2K | $2K–5K | $5K–50K |
+| Debt? | No | Yes (interest, maturity) | No (equity) |
+| Best for | Pre-seed, <$3M | Seed <$3M | Seed >$5M, Series A+ |
+
+**Антипаттерн:** Convertible note с interest → debt overhang при конвертации.
+
+**Cap Table Best Practices (после seed $10M):**
+- Founders: 60–70%
+- Seed investors: 25–35%
+- Employee option pool: 10–15% (выделить ДО сделки)
+
+**Golden rule:**
+- Founders держат **>50%** после seed
+- Founders держат **>30%** после Series A
 
 ---
 
