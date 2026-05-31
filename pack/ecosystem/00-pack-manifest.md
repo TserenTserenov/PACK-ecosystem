@@ -49,6 +49,7 @@
 | ECO.D.010 | Подписка ≠ Покупка ≠ Донат | D | — | draft |
 | ECO.D.011 | Retention-сигнал ≠ Cancel | D | — | draft |
 | ECO.D.012 | Возмездная транзакция ≠ Учёт балансов | D | — | draft |
+| ECO.D.013 | CAC-бюджет рефералов ≠ loyalty-бюджет действующих пользователей | D | — | — |
 | ECO.FM.001 | Fundraising Failure Modes | FM | — | active |
 | ECO.FM.002 | Ecosystem Operations | FM | — | active |
 | ECO.M.001 | Fundraising | M | — | active |

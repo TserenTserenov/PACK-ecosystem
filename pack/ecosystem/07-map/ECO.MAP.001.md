@@ -18,7 +18,7 @@ generated: true
 | Kind | Count |
 |------|-------|
 | BC (BC) | 1 |
-| Distinctions (D) | 13 |
+| Distinctions (D) | 14 |
 | Failure Modes (FM) | 2 |
 | Methods (M) | 19 |
 | Maps (MAP) | 2 |
@@ -26,7 +26,7 @@ generated: true
 | SC (SC) | 2 |
 | SoTA Annotations (SOTA) | 7 |
 | Work Products (WP) | 1 |
-| **Total** | **48** |
+| **Total** | **49** |
 
 ## Distinctions
 
@@ -45,6 +45,7 @@ generated: true
 | ECO.D.010 | Подписка ≠ Покупка ≠ Донат | — | draft |
 | ECO.D.011 | Retention-сигнал ≠ Cancel | — | draft |
 | ECO.D.012 | Возмездная транзакция ≠ Учёт балансов | — | draft |
+| ECO.D.013 | CAC-бюджет рефералов ≠ loyalty-бюджет действующих пользователей | — | — |
 
 ## Methods
 
@@ -136,6 +137,7 @@ generated: true
 - Missing `summary`: ECO.D.007 (ECO.D.007-pedagogical-market-fit-vs-pmf.md)
 - Missing `summary`: ECO.D.008 (ECO.D.008-freemium-paid-vs-free-core.md)
 - Missing `summary`: ECO.D.009 (ECO.D.009-certification-as-value-driver-vs-product.md)
+- Missing `summary`: ECO.D.013 (ECO.D.013-cac-referral-vs-loyalty-budget.md)
 - Missing `summary`: ECO.ROLE.001 (ECO.ROLE.001-ecosystem-roles.md)
 - Missing `summary`: ECO.D.010 (ECO.D.010-payment-models.md)
 - Missing `summary`: ECO.D.011 (ECO.D.011-retention-vs-cancel.md)
