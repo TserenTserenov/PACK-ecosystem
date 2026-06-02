@@ -20,13 +20,13 @@ generated: true
 | BC (BC) | 1 |
 | Distinctions (D) | 14 |
 | Failure Modes (FM) | 2 |
-| Methods (M) | 20 |
+| Methods (M) | 21 |
 | Maps (MAP) | 2 |
 | ROLE (ROLE) | 1 |
 | SC (SC) | 2 |
 | SoTA Annotations (SOTA) | 7 |
 | Work Products (WP) | 1 |
-| **Total** | **50** |
+| **Total** | **51** |
 
 ## Distinctions
 
@@ -71,6 +71,7 @@ generated: true
 | ECO.M.018 | Platform Design Toolkit | — | active |
 | ECO.M.019 | Revenue Based Financing | — | active |
 | ECO.M.020 | Dual-channel distribution | — | draft |
+| ECO.M.021 | Educational Funnel By Mastery Stages | Educational product funnel by mastery stages with stage-gates and dual addressing — pattern для проектирования образовательного продукта как линейной воронки ступеней мастерства | draft |
 
 ## Work Products
 

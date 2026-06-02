@@ -72,6 +72,7 @@
 | ECO.M.018 | Platform Design Toolkit | M | — | active |
 | ECO.M.019 | Revenue Based Financing | M | — | active |
 | ECO.M.020 | Dual-channel distribution | M | — | draft |
+| ECO.M.021 | Educational Funnel By Mastery Stages | M | Educational product funnel by mastery stages with stage-gates and dual addressing — pattern для проектирования образовательного продукта как линейной воронки ступеней мастерства | draft |
 | ECO.MAP.001 | Pack Navigation Map | MAP | — | — |
 | ECO.MAP.002 | S2R Domain View | MAP | — | — |
 | ECO.ROLE.001 | Ecosystem Roles | ROLE | — | active |
