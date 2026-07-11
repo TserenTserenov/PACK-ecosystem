@@ -52,6 +52,7 @@
 | ECO.D.013 | CAC-бюджет рефералов ≠ loyalty-бюджет действующих пользователей | D | — | — |
 | ECO.FM.001 | Fundraising Failure Modes | FM | — | active |
 | ECO.FM.002 | Ecosystem Operations | FM | — | active |
+| ECO.FM.003 | Superiority Claim Without Dataset | FM | — | active |
 | ECO.M.001 | Fundraising | M | — | active |
 | ECO.M.002 | Canvas Selection Method | M | — | active |
 | ECO.M.003 | Jobs-to-be-Done + Value Proposition Canvas Integration | M | — | active |

@@ -19,7 +19,7 @@ generated: true
 |------|-------|
 | BC (BC) | 1 |
 | Distinctions (D) | 14 |
-| Failure Modes (FM) | 2 |
+| Failure Modes (FM) | 3 |
 | Methods (M) | 24 |
 | Maps (MAP) | 2 |
 | PIPE (PIPE) | 2 |
@@ -28,7 +28,7 @@ generated: true
 | SoTA Annotations (SOTA) | 7 |
 | SYS (SYS) | 3 |
 | Work Products (WP) | 1 |
-| **Total** | **60** |
+| **Total** | **61** |
 
 ## Distinctions
 
@@ -90,6 +90,7 @@ generated: true
 |----|------|---------|--------|
 | ECO.FM.001 | Fundraising Failure Modes | — | active |
 | ECO.FM.002 | Ecosystem Operations | — | active |
+| ECO.FM.003 | Superiority Claim Without Dataset | — | active |
 
 ## SoTA Annotations
 
@@ -188,6 +189,7 @@ generated: true
 - Missing `summary`: ECO.WP.001 (ECO.WP.001-ecosystem-work-products-catalog.md)
 - Missing `summary`: ECO.FM.001 (ECO.FM.001-fundraising-failure-modes.md)
 - Missing `summary`: ECO.FM.002 (ECO.FM.002-ecosystem-operations.md)
+- Missing `summary`: ECO.FM.003 (ECO.FM.003-superiority-claim-without-dataset.md)
 - Missing `summary`: ECO.SOTA.001 (ECO.SOTA.001-edtech-seed-funding-2024-2026.md)
 - Missing `summary`: ECO.SOTA.002 (ECO.SOTA.002-freemium-edtech-2025-2026.md)
 - Missing `summary`: ECO.SOTA.003 (ECO.SOTA.003-platform-business-models-2025-2026.md)
