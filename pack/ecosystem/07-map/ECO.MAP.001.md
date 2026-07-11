@@ -21,14 +21,14 @@ generated: true
 | Distinctions (D) | 14 |
 | Failure Modes (FM) | 3 |
 | Methods (M) | 24 |
-| Maps (MAP) | 2 |
+| Maps (MAP) | 3 |
 | PIPE (PIPE) | 2 |
 | ROLE (ROLE) | 1 |
 | SC (SC) | 3 |
 | SoTA Annotations (SOTA) | 7 |
 | SYS (SYS) | 3 |
 | Work Products (WP) | 1 |
-| **Total** | **61** |
+| **Total** | **62** |
 
 ## Distinctions
 
@@ -110,6 +110,7 @@ generated: true
 |----|------|---------|--------|
 | ECO.MAP.001 | Pack Navigation Map | — | — |
 | ECO.MAP.002 | S2R Domain View | — | — |
+| ECO.MAP.BIND.001 | Мост Pack↔БД: системы продвижения → Neon | — | draft |
 
 ## Domain-Specific Entities
 
@@ -198,6 +199,7 @@ generated: true
 - Missing `summary`: ECO.SOTA.006 (ECO.SOTA.006-edtech-regulatory-2025-2026.md)
 - Missing `summary`: ECO.SOTA.007 (ECO.SOTA.007-remote-first-teams-2025-2026.md)
 - Missing `summary`: ECO.MAP.001 (ECO.MAP.001.md)
+- Missing `summary`: ECO.MAP.BIND.001 (ECO.MAP.BIND.001-pack-to-db.md)
 - Missing `summary`: ECO.MAP.002 (s2r-view.md)
 
 ---
