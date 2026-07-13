@@ -20,7 +20,7 @@ generated: true
 | BC (BC) | 1 |
 | Distinctions (D) | 14 |
 | Failure Modes (FM) | 3 |
-| Methods (M) | 24 |
+| Methods (M) | 26 |
 | Maps (MAP) | 3 |
 | PIPE (PIPE) | 2 |
 | ROLE (ROLE) | 1 |
@@ -28,7 +28,7 @@ generated: true
 | SoTA Annotations (SOTA) | 7 |
 | SYS (SYS) | 3 |
 | Work Products (WP) | 1 |
-| **Total** | **62** |
+| **Total** | **64** |
 
 ## Distinctions
 
@@ -77,6 +77,8 @@ generated: true
 | ECO.M.022 | Lead To Buyer | Метод перехода Лида из состояния 'прошёл первый контакт' в граничное состояние 'покупатель' — момент, когда изменяется представление Лида о мире/себе (Алёна, система 1) | draft |
 | ECO.M.023 | Buyer To Member | Метод перехода из граничного состояния 'покупатель' в базовое членство ECO.SYS.002/003 — гейт качества клуба, отделяющий факт покупки от факта членства | draft |
 | ECO.M.024 | Lead Persona Verification | Адверсариальная проверка материалов Конвейера продвижения через банк персон-скептиков Лида перед публикацией — контроль качества коммуникации, не гейт | draft |
+| ECO.M.025 | Outcome Tags for Support Log | — | active |
+| ECO.M.026 | Audience Segment Description 13 Blocks | Структурированное описание сегмента целевой аудитории из 13 блоков: от болей и JTBD до критериев отбора и связей с другими сегментами | draft |
 
 ## Work Products
 
@@ -187,6 +189,7 @@ generated: true
 - Missing `summary`: ECO.M.018 (ECO.M.018-platform-design-toolkit.md)
 - Missing `summary`: ECO.M.019 (ECO.M.019-revenue-based-financing.md)
 - Missing `summary`: ECO.M.020 (ECO.M.020-dual-channel-distribution.md)
+- Missing `summary`: ECO.M.025 (ECO.M.025-outcome-tags-support-log.md)
 - Missing `summary`: ECO.WP.001 (ECO.WP.001-ecosystem-work-products-catalog.md)
 - Missing `summary`: ECO.FM.001 (ECO.FM.001-fundraising-failure-modes.md)
 - Missing `summary`: ECO.FM.002 (ECO.FM.002-ecosystem-operations.md)
