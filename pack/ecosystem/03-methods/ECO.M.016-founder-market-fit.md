@@ -4,6 +4,7 @@ title: "Founder-Market Fit Assessment"
 type: method
 status: active
 created: 2026-03-24
+last_updated: 2026-07-23
 source: "StartupWired FMF 2025, Adith Podhar FMF Framework, EdTech Insiders PMF+FMF, Ethan Pierce Enduring EdTech, Jackyraj FMF 2025"
 related: [ECO.M.015, ECO.M.010]
 s2r_families: [F9]
@@ -24,6 +25,16 @@ Founder-Market Fit (FMF) — степень соответствия между 
 **SOTA 2025:** FMF shapes funding decisions, team building, and long-term scalability. Инвесторы всё больше оценивают FMF до PMF.
 
 ---
+
+## Forces
+
+_(Optional, WP-448 Ф12) Какие конкурирующие давления удерживает метод._
+
+| Force | Tension |
+|-------|---------|
+| Качественная природа фита ↔ потребность в числовом Score | §1 определяет FMF как оцениваемый «качественно», но §4 сжимает пять измерений в единый Score 0-10 для сравнения и презентации — нюанс каждого измерения теряется в агрегате |
+| Personal Problem (глубокая личная мотивация) ↔ Complementary Skills (нужны другие люди) | §3 измерение 2 вознаграждает основателя, лично страдавшего от проблемы, но такая личная вовлечённость может удерживать его в роли solo founder дольше нужного (риск FM.FMF.003) |
+| Domain Expertise, зафиксированная весом 25% ↔ изменчивость рынка/основателя во времени | §2 задаёт вес измерения один раз, но рынок и сам основатель меняются — статичный вес не отражает необходимость переоценки (FM.FMF.005) |
 
 ## 2. Пять измерений FMF
 
@@ -117,6 +128,18 @@ Founder-Market Fit (FMF) — степень соответствия между 
 
 ---
 
+## Bias-Annotation
+
+_(Optional, WP-448 Ф12) Куда систематически съезжает внимание практикующего. Не дублирует `## 6. Failure modes` — там «что пойдёт не так», здесь «куда дрейфует внимание»._
+
+| Bias | Direction of distortion |
+|------|--------------------------|
+| Сильные измерения переоцениваются, слабые недооцениваются | Self-assessment (§5) естественно съезжает к измерениям, где легко поставить себе высокий балл (Domain Expertise 8, Personal Problem 9), а честная оценка Complementary Skills (самое слабое, 5) откладывается |
+| Однократный замер воспринимается как постоянный факт | Внимание фиксируется на зафиксированном числе «7.7» (§5) и уходит от того, что FMF плавает во времени вместе с рынком и ростом основателя (§6 FM.FMF.005) |
+| Число заслоняет нарратив под ним | При сравнении/презентации инвестору внимание смещается к единому Score (§4) и уходит от качественного объяснения, почему именно такой балл по каждому измерению |
+
+---
+
 ## 6. Failure modes
 
 | ID | Ошибка | Последствие |
@@ -126,3 +149,7 @@ Founder-Market Fit (FMF) — степень соответствия между 
 | FM.FMF.003 | Solo founder too long | Bottleneck на всём, no backup |
 | FM.FMF.004 | Chase trend without FMF | AI hype → EdTech без опыта → pivot через год |
 | FM.FMF.005 | Don't reassess | FMF может меняться (рынок shift, founder grows) |
+
+---
+
+> 2026-07-23 — миграция на обогащённый формат карточки (Forces + Bias-Annotation), WP-448 Ф12. Эталон формата: `SPF/pack-template/03-methods/_method-card-template.md`.

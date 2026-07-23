@@ -4,6 +4,7 @@ title: "Pricing Strategy (Freemium, Tiered, Usage-Based)"
 type: method
 status: active
 created: 2026-03-24
+last_updated: 2026-07-23
 source: "Monetizely EdTech Pricing, Revenera SaaS Pricing 2026, NxCode Pricing Guide 2026, Golden Door Software Pricing 2026, OpenFieldX EdTech Pricing"
 related: [ECO.M.010, ECO.M.004, ECO.SOTA.002]
 s2r_families: [F2]
@@ -20,6 +21,18 @@ s2r_families: [F2]
 Pricing strategy — стратегический выбор модели ценообразования, определяющий кто платит, за что, сколько и когда. В экосистеме pricing влияет не только на revenue, но и на adoption, network effects и ecosystem health.
 
 **Различение:** Pricing ≠ Monetization. Pricing = конкретная модель (freemium, $X/мес). Monetization = общая стратегия создания revenue (включая pricing, upsell, cross-sell, data, marketplace commission).
+
+---
+
+## Forces
+
+_(Optional, WP-448 Ф12) Какие конкурирующие давления удерживает метод._
+
+| Force | Tension |
+|-------|---------|
+| Щедрость free tier ↔ давление на конверсию | Широкий free tier ускоряет adoption/viral loop (§3), но подрывает Free → Paid conversion (§3 метрики) — баланс между FM.PR.001 и FM.PR.002 |
+| Единая простая цена ↔ сегментация по ICP | Одна цена проще коммуницировать, но §5 шаг 1 (ICP) и §6 (K-12 / Higher Ed / Individual) требуют разных моделей — единая цена ведёт к FM.PR.003 |
+| Гибкость цены (A/B, ежеквартальный review, §5 шаг 6) ↔ стабильность для существующих клиентов | Частый пересмотр улучшает monetization, но без grandfathering вызывает churn (FM.PR.004) |
 
 ---
 
@@ -116,6 +129,18 @@ AI-фичи размещаются в mid/upper tier для стимулиров
 
 ---
 
+## Bias-Annotation
+
+_(Optional, WP-448 Ф12) Куда систематически съезжает внимание практикующего. Не дублирует `## 7. Failure modes` — там «что пойдёт не так», здесь «куда дрейфует внимание»._
+
+| Bias | Direction of distortion |
+|------|--------------------------|
+| Benchmarking конкурентов вместо WTP-исследования | Внимание съезжает к тому, что берут конкуренты (§5 шаг 3), и уходит от Van Westendorp/Gabor-Granger теста (§5 шаг 4) — копировать проще, чем измерить, отсюда FM.PR.005 |
+| Щедрость free tier переоценивается как безопасная для роста | Больше free-функций кажется чистым плюсом для adoption, но недооценивается эффект на Free → Paid conversion (§3) — прямой путь к FM.PR.001 |
+| Единая цена вместо сегментации | Внимание смещается к простоте одной цены «для всех» и уходит от ICP-сегментации (K-12 / Higher Ed / Individual, §6) — теряются оба полюса (FM.PR.003) |
+
+---
+
 ## 7. Failure modes
 
 | ID | Ошибка | Последствие |
@@ -126,3 +151,7 @@ AI-фичи размещаются в mid/upper tier для стимулиров
 | FM.PR.004 | Менять цены без grandfathering | Churn существующих клиентов |
 | FM.PR.005 | Pricing без WTP research | Цена из головы, а не от рынка |
 | FM.PR.006 | Скрытые ограничения | Потеря доверия, negative reviews |
+
+---
+
+> 2026-07-23 — миграция на обогащённый формат карточки (Forces + Bias-Annotation), WP-448 Ф12. Эталон формата: `SPF/pack-template/03-methods/_method-card-template.md`.

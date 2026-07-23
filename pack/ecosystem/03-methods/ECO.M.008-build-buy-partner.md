@@ -4,6 +4,7 @@ title: "Build vs Buy vs Partner Decision Framework"
 type: method
 status: active
 created: 2026-03-24
+last_updated: 2026-07-23
 source: "TheCodev Build vs Buy Framework, Engenia Tech 2026, Pragmatic Institute, AppInventiv 2026, Sedulo Group F1 Framework, DevPro Journal ISV 2026"
 related: [ECO.M.007, ECO.M.009]
 s2r_families: [F8]
@@ -20,6 +21,18 @@ s2r_families: [F8]
 Build vs Buy vs Partner — стратегическая модель оценки трёх путей получения новой возможности (capability) для экосистемы. Традиционный «Build vs Buy» расширен третьей опцией — Partner — особенно актуальной в эпоху SaaS и API-экономики.
 
 **Принцип 2026:** «Do fewer things in-house but do them exceptionally well. Be the best in the world at 3-5 core capabilities and buy or partner for everything else.»
+
+---
+
+## Forces
+
+_(Optional, WP-448 Ф12) Какие конкурирующие давления удерживает метод._
+
+| Force | Tension |
+|-------|---------|
+| Скорость получения capability ↔ долгосрочная стоимость владения | Buy/Partner быстрее (§2 Time-to-market), но «Стоимость (долгосрочная)» растёт (subscription, vendor lock-in), тогда как Build дороже сейчас, но дешевле при владении (§2) |
+| Контроль/дифференциация ↔ дисциплина «меньше, но отлично» | Желание строить всё самому (Control, §3 Decision Matrix) конкурирует с принципом 2026 «3-5 core capabilities» (§1) — соблазн build за пределами core ведёт к FM.BBP.001 |
+| Видимая цена лицензии ↔ скрытая стоимость интеграции | Buy кажется дешёвым по subscription, но Hidden Iceberg Framework (§6) показывает integration/migration/training/compliance costs, не видные при выборе |
 
 ---
 
@@ -125,6 +138,18 @@ Build vs Buy vs Partner — стратегическая модель оценк
 
 ---
 
+## Bias-Annotation
+
+_(Optional, WP-448 Ф12) Куда систематически съезжает внимание практикующего. Не дублирует `## 8. Failure modes` — там «что пойдёт не так», здесь «куда дрейфует внимание»._
+
+| Bias | Direction of distortion |
+|------|--------------------------|
+| Видимая цена важнее скрытых издержек | Внимание смещается к цене лицензии/subscription (§2 таблица) и недооценивается Hidden Iceberg costs (§6: интеграция, миграция, обучение, compliance) — считается то, что в счёте, а не то, что съедает бюджет позже |
+| Control-критерий переоценивается при Build | «Мы не хотим зависеть от вендора» звучит убедительно и смещает баланс Decision Matrix (§3) в пользу Build, даже когда взвешенная оценка Cost/Speed/Scalability/Risk указывает на Buy/Partner |
+Пересмотр решения дороже политически, чем технически | Отказаться от Build/Partner значит признать перед стейкхолдерами, что бюджет и headcount на решение (§3) были потрачены на то, что теперь меняют, — внимание уходит от триггеров пересмотра (§7) не потому что решение «кажется постоянным», а потому что поднимать вопрос социально дороже, чем не поднимать |
+
+---
+
 ## 8. Failure modes
 
 | ID | Ошибка | Последствие |
@@ -134,3 +159,7 @@ Build vs Buy vs Partner — стратегическая модель оценк
 | FM.BBP.003 | Не учитывать Hidden Iceberg | Бюджет x3-5 от ожидаемого |
 | FM.BBP.004 | Partner без exit strategy | Зависимость без возможности миграции |
 | FM.BBP.005 | Не пересматривать решения | Legacy tools тормозят команду |
+
+---
+
+> 2026-07-23 — миграция на обогащённый формат карточки (Forces + Bias-Annotation), WP-448 Ф12. Эталон формата: `SPF/pack-template/03-methods/_method-card-template.md`.

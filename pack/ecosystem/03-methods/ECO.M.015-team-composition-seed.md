@@ -4,6 +4,7 @@ title: "Team Composition for Seed-Stage Startup"
 type: method
 status: active
 created: 2026-03-24
+last_updated: 2026-07-23
 source: "Andrew Chen Seed Team, Dover First 5 Hires 2026, Dover Seed Hiring 2025, DBB MVP Team Guide, Octopus Ventures Pre-Seed Teams, Dover Hiring Trends 2026"
 related: [ECO.M.016, ECO.SOTA.007]
 s2r_families: [F9]
@@ -22,6 +23,16 @@ s2r_families: [F9]
 **Принцип 2025-2026:** Runway precious → каждый hire critical. Think 12-18 months ahead, hire people who can grow into future roles.
 
 ---
+
+## Forces
+
+_(Optional, WP-448 Ф12) Какие конкурирующие давления удерживает метод._
+
+| Force | Tension |
+|-------|---------|
+| Скорость роста headcount ↔ культура и coordination cost | §2 «Build core team» требует быстро закрыть 5 позиций, но именно избыточная скорость найма превращается в FM.TC.001 |
+| AI-leverage (lean team) ↔ желание закрыть gaps людьми | §4 SOTA 2026: 1 engineer = output 2-3 благодаря AI, что позволяет дольше оставаться маленькой командой, но давление «нанять ещё одного» на каждый gap остаётся сильным (см. FM.TC.006) |
+| Senior enough для ownership ↔ too senior для seed-реальности | §3 ищет «Growth potential» (senior для ownership, junior для hands-on), но грань с антипаттерном «VP/C-level из корпорации» (§3 «Что НЕ искать») тонкая |
 
 ## 2. Первые 5 найм
 
@@ -119,6 +130,18 @@ Founder(s)
 
 ---
 
+## Bias-Annotation
+
+_(Optional, WP-448 Ф12) Куда систематически съезжает внимание практикующего. Не дублирует `## 7. Failure modes` — там «что пойдёт не так», здесь «куда дрейфует внимание»._
+
+| Bias | Direction of distortion |
+|------|--------------------------|
+| Найм как прогресс сам по себе | Внимание съезжает к вопросу «кого нанять следующим» (§2) и уходит от вопроса «нужен ли человек, если есть AI-leverage» (§4) — вакансия закрывается раньше, чем проверена альтернатива |
+| Pedigree переоценивается, comfort with ambiguity недооценивается | Резюме/бренд компании кандидата (BigCo) легче оценить с первого взгляда, чем §3 «Comfortable with ambiguity» — внимание смещается к видимому маркеру статуса |
+| Скорость закрытия вакансии переоценивается, equity-структура недооценивается | Внимание уходит от вопроса «что получает нанятый» (§7 FM.TC.004 no equity) к вопросу «как быстрее закрыть позицию» |
+
+---
+
 ## 7. Failure modes
 
 | ID | Ошибка | Последствие |
@@ -129,3 +152,7 @@ Founder(s)
 | FM.TC.004 | No equity for early hires | No skin in game → mercenary culture |
 | FM.TC.005 | Hire before PMF | Scaling what doesn't work |
 | FM.TC.006 | Ignore AI leverage | 2× headcount where 1× + AI sufficient |
+
+---
+
+> 2026-07-23 — миграция на обогащённый формат карточки (Forces + Bias-Annotation), WP-448 Ф12. Эталон формата: `SPF/pack-template/03-methods/_method-card-template.md`.

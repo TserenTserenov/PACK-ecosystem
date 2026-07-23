@@ -4,6 +4,7 @@ title: "Стратегия продукта (Product Strategy)"
 type: method
 status: active
 created: 2026-03-24
+last_updated: 2026-07-23
 source: "ProductSchool, ProductPlan, Ant Murphy, Product Compass"
 related: [ECO.D.004, ECO.M.005, ECO.M.003]
 s2r_families: [F4]
@@ -25,6 +26,18 @@ Product Strategy — документ, определяющий:
 5. **Как растём** (growth model: PLG, CLG, Sales-led)
 
 **Различение:** Product Strategy ≠ Vision ≠ Roadmap (ECO.D.004).
+
+---
+
+## Forces
+
+_(Optional, WP-448 Ф12) Какие конкурирующие давления удерживает метод._
+
+| Force | Tension |
+|-------|---------|
+| Сила moat (§2.2: network effects «Сильнейший») ↔ скорость его построения | Сильнейшие moat (network effects, data moat) требуют больше времени на построение; более доступные moat (brand/community, «Средний») строятся быстрее, но защищают слабее |
+| Growth Model под сегмент (§2.3: PLG/CLG/Sales-Led/Hybrid) ↔ операционная простота | Hybrid покрывает multi-segment, но требует «Blended CAC, segment-specific metrics» (больше сложности); единая модель проще в операциях, но рискует FM.PS.005 (одна модель для всех сегментов) |
+| Стабильность Vision (§4: раз в 1-3 года) ↔ отзывчивость Strategy на новые данные (1-2 раза в год) | Стабильный канвас (§3) удобен для выравнивания команды, но частые обновления нужны, когда рынок/PMF меняются быстрее цикла — иначе FM.PS.004 (устаревшие допущения) |
 
 ---
 
@@ -101,3 +114,18 @@ Product Strategy — документ, определяющий:
 | FM.PS.003 | Moat = «наша команда» | Не масштабируется, не защищает |
 | FM.PS.004 | Strategy не обновляется | Год работаем по устаревшим допущениям |
 | FM.PS.005 | Один growth model для всех сегментов | B2C не закрывается через sales, B2B не через PLG |
+
+---
+
+## Bias-Annotation
+
+_(Optional, WP-448 Ф12) Куда систематически съезжает внимание практикующего. Не дублирует «Failure modes» — там «что пойдёт не так», здесь «куда дрейфует внимание»._
+
+| Bias | Direction of distortion |
+|------|--------------------------|
+| ICP/Solution легче Moat | При заполнении Product Strategy Canvas (§3) внимание смещается к блокам ICP и Solution (легко описываются) и уходит от Moat («Почему мы?» — самый трудный блок для честной оценки), из-за чего moat незаметно вырождается в «наша команда» (FM.PS.003) |
+| Знакомый Growth Model переоценивается | При выборе Growth Model (§2.3) внимание переоценивается тот канал, который уже знаком команде (например, founder из sales тяготеет к Sales-Led), и недооценивается объективное соответствие модели сегменту (ARPU, ACV) |
+
+---
+
+> 2026-07-23 — миграция на обогащённый формат карточки (Forces + Bias-Annotation), WP-448 Ф12. Эталон формата: `SPF/pack-template/03-methods/_method-card-template.md`.

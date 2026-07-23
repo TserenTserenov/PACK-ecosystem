@@ -4,6 +4,7 @@ name: "Jobs-to-be-Done + Value Proposition Canvas Integration"
 type: method
 status: active
 created: 2026-03-23
+last_updated: 2026-07-23
 source: "Digital Leadership JTBD Guide, Product School JTBD Framework, Scout 22 мар 2026"
 related: [ECO.D.002, ECO.M.001]
 s2r_families: [F4, F1]
@@ -14,6 +15,16 @@ s2r_families: [F4, F1]
 ## Проблема
 
 Founders часто строят features от технологии («мы можем сделать X»), а не от customer job («клиент нанимает продукт чтобы Y»).
+
+## Forces
+
+_(Optional, WP-448 Ф12) Какие конкурирующие давления удерживает метод._
+
+| Force | Tension |
+|-------|---------|
+| Feature-first мышление ↔ Job-first framing | «Проблема» описывает founders, естественно мыслящих в терминах возможностей продукта («мы можем сделать X»), тогда как Step 1 требует начинать с формулировки customer job — конкурирующее давление между инженерным инстинктом и дисциплиной JTBD |
+| Functional job ↔ Emotional/Social измерения | 3 измерения Job (Step 1) конкурируют за внимание: functional формулируется легче, но именно emotional/social управляют retention — упор только на functional = FM.002 |
+| Полнота Pain Relievers/Gain Creators (Step 3) ↔ скорость валидации (Step 4) | Fit определён как «каждый pain relieved + каждый gain created», но Step 4 требует быстрой проверки с клиентами — тщательное картирование конкурирует с практикой «заполнили canvas, но не проверили» (FM.003) |
 
 ## Step 1: Identify Customer Job (JTBD)
 
@@ -81,6 +92,15 @@ Fit = каждый pain relieved + каждый gain created:
 | Premium | Achieve mastery | No expert feedback | AI mentor + community |
 | Enterprise | Apply in organization | Can't scale ST culture | Team transformation |
 
+## Bias-Annotation
+
+_(Optional, WP-448 Ф12) Куда систематически съезжает внимание практикующего. Не дублирует «Failure modes» — там «что пойдёт не так», здесь «куда дрейфует внимание»._
+
+| Bias | Direction of distortion |
+|------|--------------------------|
+| Functional job перевешивает emotional/social | Functional легко валидировать данными использования продукта, emotional/social требуют qualitative-интервью с клиентом; на воркшопе (Step 1), где нет времени ждать интервью, внимание сваливается туда, где есть быстрый проверяемый ответ, — даже когда все три измерения указаны в формуле |
+| Products & Services вместо симметрии Pain/Gain | При заполнении VPC (Step 2-3) внимание смещается к «Products & Services» (приятно перечислять, что уже сделано) и недооценивается проверка, что каждый Pain действительно relieved, а каждый Gain — created |
+
 ## Failure modes
 
 - **FM.001:** Feature-first — «мы делаем AI ассистента» вместо «помогаем не overwhelmed»
@@ -91,3 +111,7 @@ Fit = каждый pain relieved + каждый gain created:
 
 - [Digital Leadership: JTBD Framework Complete Guide](https://digitalleadership.com/blog/jobs-to-be-done/)
 - [Product School: JTBD for Product Teams](https://productschool.com/blog/product-fundamentals/jtbd-framework)
+
+---
+
+> 2026-07-23 — миграция на обогащённый формат карточки (Forces + Bias-Annotation), WP-448 Ф12. Эталон формата: `SPF/pack-template/03-methods/_method-card-template.md`.

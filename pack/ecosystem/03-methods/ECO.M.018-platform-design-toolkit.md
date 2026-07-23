@@ -4,6 +4,7 @@ title: "Platform Design Toolkit (Boundaryless)"
 type: method
 status: active
 created: 2026-03-24
+last_updated: 2026-07-23
 source: "Simone Cicero / Boundaryless PDT Framework, Boundaryless Ecosystem Canvas, Boundaryless Flywheel Sketching, McKinsey Ecosystem Strategy, Wardley Maps"
 related: [ECO.M.007, ECO.M.002, ECO.D.005, ECO.M.006]
 s2r_families: [F4, F5]
@@ -24,6 +25,16 @@ Platform Design Toolkit (PDT) — методология и набор canvas'о
 **Источник:** [boundaryless.io/pdt-framework](https://www.boundaryless.io/pdt-framework/)
 
 ---
+
+## Forces
+
+_(Optional, WP-448 Ф12) Какие конкурирующие давления удерживает метод._
+
+| Force | Tension |
+|-------|---------|
+| Число типов участников (охват) ↔ управляемость governance | PDT ограничивает Entities до 5 типов (§2.2 Platform Strategy Model Canvas), но реальная экосистема IWE включает больше акторов (§5 Ecosystem Canvas) — расширение охвата подрывает FM.PDT.005 |
+| Flywheel-рост ↔ защита control points | Flywheel Sketching (§2.3) проектирует self-reinforcing рост, но без Wardley control point analysis (§2.4, §5 Control Points) рост легко копируется конкурентами — FM.PDT.003 |
+| Разовое canvas-упражнение ↔ живая эволюция экосистемы | Canvas фиксирует снимок на момент составления (§2.1-2.3), но зрелость компонентов меняется (§5 таблица Control Points: LMS «Custom/Product», AI «Product/Commodity») — статичный артефакт устаревает, FM.PDT.004 |
 
 ## 2. Компоненты PDT
 
@@ -123,6 +134,16 @@ Platform Design Toolkit (PDT) — методология и набор canvas'о
 
 ---
 
+## Bias-Annotation
+
+_(Optional, WP-448 Ф12) Куда систематически съезжает внимание практикующего. Не дублирует «7. Failure modes» — там «что пойдёт не так», здесь «куда дрейфует внимание»._
+
+| Bias | Direction of distortion |
+|------|--------------------------|
+| Заполнение canvas'ов вместо возврата к Arena | Внимание съезжает на детальную проработку Ecosystem/Strategy/Flywheel canvas (§2.1-2.3) и уходит от Arena Definition — JTBD-вопроса экосистемы (§3, шаг 1), которому canvas должен служить |
+| Видимые control points переоцениваются, genesis-компонент — недооценивается | При Control Point Analysis (§2.4, §5) внимание переоценивает уже знакомые «Custom/Product» компоненты (LMS, таблица выше) как defensible и недооценивает genesis-компонент (методология сист. мышления), который труднее предъявить, но является настоящим control point |
+| Количество участников важнее связей между ними | Внимание смещается к полноте списка типов участников (§2.2 «Entities», до 5) вместо cross-side network effects между ними (§2.3 Flywheel) — раздувание списка отвлекает от того, что делает PDT ценным (§4 таблица) |
+
 ## 6. Связь с McKinsey Ecosystem Strategy
 
 McKinsey дополняет PDT на стратегическом уровне:
@@ -142,3 +163,7 @@ McKinsey дополняет PDT на стратегическом уровне:
 | FM.PDT.003 | Flywheel без control points | Рост без защиты — конкуренты копируют |
 | FM.PDT.004 | Canvas как разовое упражнение | Экосистема меняется — canvas нужно обновлять |
 | FM.PDT.005 | Слишком много типов участников (>5) | Complexity → невозможно управлять |
+
+---
+
+> 2026-07-23 — миграция на обогащённый формат карточки (Forces + Bias-Annotation), WP-448 Ф12. Эталон формата: `SPF/pack-template/03-methods/_method-card-template.md`.
